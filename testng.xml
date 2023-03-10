@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/shank/APIFramework"><classes><class name="org.example.tests.curd.CreateBookingTest"><methods><include name="testCreateBooking"/></methods></class><class name="org.example.tests.curd.IntergrationTest"><methods><include name="testCreateBooking"/><include name="UpdateBookingIS"/></methods></class></classes></test></suite>
