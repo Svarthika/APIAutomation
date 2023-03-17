@@ -1,3 +1,3 @@
 ﻿# APIAutomation
 
-mvn clean test -DsuiterXmlFile=testng.xml
+mvn clean test -DsuiteXmlFile=testng.xml
